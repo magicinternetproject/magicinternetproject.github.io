@@ -2,9 +2,8 @@
 title: Contact
 ---
 
-For the moment, I live in Massachusetts, USA
+Want to talk to the Magic Internet?
 
-Links to more content by me:
+Bring your own magic to:
 
-* [mastodon](https://recurse.social/@shapr)
-* [github](https://github.com/shapr)
+* [github](https://github.com/magicinternetproject)
