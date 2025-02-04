@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>MIP's RSS feed</title>
+        <link>https://magicinternetproject.github.io</link>
+        <description><![CDATA[magic internet project feed]]></description>
+        <atom:link href="https://magicinternetproject.github.io/feed.rss" rel="self"
+                   type="application/rss+xml" />
+        <lastBuildDate>Tue, 04 Feb 2025 00:00:00 UT</lastBuildDate>
+        <item>
+    <title>Magic Internet is cool</title>
+    <link>https://magicinternetproject.github.io/magic-internet-is-cool.html</link>
+    <description><![CDATA[let's magic up the internet]]></description>
+    <pubDate>Tue, 04 Feb 2025 00:00:00 UT</pubDate>
+    <guid>https://magicinternetproject.github.io/magic-internet-is-cool.html</guid>
+    <dc:creator>Magic Internet Project</dc:creator>
+</item>
+
+    </channel>
+</rss>

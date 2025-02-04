@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MIP's RSS feed</title>
+    <link href="https://magicinternetproject.github.io/atom.xml" rel="self" />
+    <link href="https://magicinternetproject.github.io" />
+    <id>https://magicinternetproject.github.io/atom.xml</id>
+    <author>
+        <name>Magic Internet Project</name>
+        
+        <email>blog@snakedev.com</email>
+        
+    </author>
+    <updated>2025-02-04T00:00:00Z</updated>
+    <entry>
+    <title>Magic Internet is cool</title>
+    <link href="https://magicinternetproject.github.io/magic-internet-is-cool.html" />
+    <id>https://magicinternetproject.github.io/magic-internet-is-cool.html</id>
+    <published>2025-02-04T00:00:00Z</published>
+    <updated>2025-02-04T00:00:00Z</updated>
+    <summary type="html"><![CDATA[let's magic up the internet]]></summary>
+</entry>
+
+</feed>
