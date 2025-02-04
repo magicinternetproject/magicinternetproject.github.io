@@ -30,12 +30,11 @@ jobs:
 
       - run: nix build --accept-flake-config
 
-      - name: Artifact pages
-        uses: actions/upload-artifact@v4
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: pages
           path: result/dist
-
 
   # Deploy job
   deploy:
@@ -57,4 +56,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+        uses: actions/deploy-pages@v4
