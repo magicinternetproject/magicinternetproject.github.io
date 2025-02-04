@@ -54,5 +54,4 @@ jobs:
         with:
           build_dir: result
           target_branch: gh-pages
-        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
